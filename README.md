@@ -1,4 +1,4 @@
 # Car-dealer
-Some OOP concepts training
+C++ OOP concepts 
 
 Car dealer menu using classes, inheritance, virtual functions and templates
